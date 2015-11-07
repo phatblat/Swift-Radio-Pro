@@ -28,6 +28,15 @@
      "imageURL": "",
      "desc": "KVCU - Boulder, CO",
      "longDesc": "Radio 1190 is the bomb."
+     },
+     {
+     "name": "DnB Radio",
+     "streamURL": "http://min.dnbradio.com:10128/dnbradio_mobile",
+     "imageURL": "http://assets1.dnbradio.com/img/203x212xlogotags.png.pagespeed.ic.6FO67oqULb.png",
+     "desc": "Denver, CO",
+     "longDesc": "DNBRADIO: 24/7 Drum and Bass Darkstep, Liquid DNB, Jungle"
      }
+
+
     ]
 }
