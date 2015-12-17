@@ -28,6 +28,13 @@
      "imageURL": "",
      "desc": "KVCU - Boulder, CO",
      "longDesc": "Radio 1190 is the bomb."
+     },
+     {
+     "name": "SoundCloud",
+     "streamURL": "http://api.soundcloud.com/tracks/237525733/stream?client_id=YOUR_CLIENT_ID",
+     "imageURL": "https://i1.sndcdn.com/artworks-000139556667-97hoth-large.jpg",
+     "desc": "Solar Skinner - Right Away (Original Mix)",
+     "longDesc": "New Blood dubstep future bass hip hop trap new release compilation six house electro dub drumstep melodic vol 6"
      }
     ]
 }
